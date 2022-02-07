@@ -3,6 +3,7 @@
 # Step 2: Upload script as a Response Script
 # Step 3: Create a Match Condition with the Responses --> Run a script
 # Step 4: Select uploaded script
+# Proofpoint / Threat Response / jyun@proofpoint.com
 
 import os
 import requests
